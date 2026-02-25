@@ -26,7 +26,7 @@ export const metadata: Metadata = {
 }
 
 // 오픈 날짜 설정
-const OPEN_DATE = new Date("2026-03-03T00:00:00")
+const OPEN_DATE = new Date("2026-02-24T00:00:00")
 
 function isBeforeOpenDate(): boolean {
   const now = new Date()
